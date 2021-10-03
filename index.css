@@ -77,6 +77,7 @@ body{
 }
 li{
     list-style-type: circle;
+    font-size:1.1em;
 }
 .set1:hover,.set2:hover{
     transform:scale(1.033);
@@ -90,7 +91,7 @@ a{
     display: flex;
     flex-direction:row;
     justify-content:center;
-    font-size: 1.4em;
+    font-size: 1.65em;
     border: 2px solid #80F;
     padding:0.3em;
     padding-top: 0.1em;
@@ -100,7 +101,8 @@ a{
 }
 .social{
     text-align: center;
-    padding-right: 0.75em;
+    padding-right: 0.35em;
+    padding-left: 0.35em;
     color:rgb(255, 255, 255);
 }
 .social1,.social2,.social3,.social4{
@@ -224,6 +226,7 @@ a{
     }
     li{
         list-style-type: circle;
+        font-size:1em;
     }
     .set1:hover,.set2:hover{
         transform:scale(1.033);
@@ -248,6 +251,7 @@ a{
     }
     .social{
         padding-right: 0em;
+        padding-left: 0em;
         color:#80F;
     }
     .social1,.social2,.social3,.social4{
