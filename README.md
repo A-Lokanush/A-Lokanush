@@ -1,22 +1,19 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hóla<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lokanush</h1>
-<h3 align="center">I'm a Full Stack Developer and Student</h3>
+<h3 align="center">I'm a Web Developer, Student & a Tech Enthusiast</h3>
 
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
+- 👨‍🎓️ Sophomore at **National Institute of Technology, Trichy** studying **Computer Science and Engineering**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
-
 - 📫 How to reach me **ananthanlokanush@gmail.com**
 
-<!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
 
 ## 🚀 Languages and Tools:
 
@@ -26,15 +23,15 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <!-- <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  -->
     <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"> <img src="https://img.icons8.com/color/c-plus-plus-logo.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  -->
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <!-- <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  -->
+    <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  -->
     <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>  -->
     <!-- <a href="https://nextjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 </p>
@@ -48,18 +45,23 @@
     </a>
 </p>
 
+<br/>
+<br/>
+
 ## 📊 My Github Stats
-.
-    ![Github stats](https://github-readme-stats.vercel.app/api?username=A-Lokanush&show_icons=true&count_private=true&theme=radical)
-    ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Lokanush&theme=radical&count_private=true&show_icons=true) 
+  <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=A-Lokanush&show_icons=true&count_private=true&theme=radical) 
 
 
-<br/>
-<br/>
+  ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Lokanush&theme=radical&count_private=true&show_icons=true) 
 
-<!-- <a href="https://github.com/A-Lokanush/github-readme-activity-graph"><img alt="Lokanush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=A-Lokanush&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+  <b>Note:</b> Most Used Languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  <br/>
+  <br/>
+
+  <a href="https://github.com/A-Lokanush/github-readme-activity-graph"><img alt="Lokanush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=A-Lokanush&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
