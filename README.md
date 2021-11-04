@@ -10,7 +10,7 @@
 
 - I’m looking to collaborate on **OpenSource Projects**
 
-- How to reach me **ananthanlokanush@gmail.com**
+- To reach me just drop a message on my socials listed below.
   
 <br/>
 <hr/>
@@ -38,19 +38,15 @@
 
 ## My Github Stats
 <br/>
-<p align="left" display="inline" >
-    <a href="https://github.com/A-Lokanush/github-readme-streak-stats"target="_blank">
+<p align="left">
+    <!-- <a href="https://github.com/A-Lokanush/github-readme-streak-stats"target="_blank">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lokanush's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=A-Lokanush&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-
+    </a> -->
+    
+  ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Lokanush&theme=radical&count_private=true&show_icons=true)
   ![Github stats](https://github-readme-stats.vercel.app/api?username=A-Lokanush&show_icons=true&count_private=true&theme=radical)
-    </a>
-
-
    
-
-  <!-- ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Lokanush&theme=radical&count_private=true&show_icons=true)  -->
-   
-  <b color="red" >Note : </b> Stats is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b >Note : </b> Stats is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
 <!--
