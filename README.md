@@ -10,6 +10,8 @@
 
 - I’m looking to collaborate on **OpenSource Projects**
 
+- Do checkout my <a href = "https://a-lokanush.github.io/" target="_blank">personal website</a> 
+
 - To reach me just drop a message on my socials listed below.
   
 <br/>
@@ -65,7 +67,7 @@
 
 
 
-  <a href="https://github.com/A-Lokanush/github-readme-activity-graph" target="_blank"><img alt="Lokanush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=A-Lokanush&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <!-- <a href="https://github.com/A-Lokanush/github-readme-activity-graph" target="_blank"><img alt="Lokanush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=A-Lokanush&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <hr/>
 <br/>
